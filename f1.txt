@@ -1,7 +1,3 @@
 Nothing
-<<<<<<< Updated upstream
 This is Stash apply
-=======
-
 First Stash
->>>>>>> Stashed changes
